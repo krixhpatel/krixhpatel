@@ -27,6 +27,7 @@ B.Tech (C.S.E) | Aspiring Web Developer with a strong interest in building respo
 <img src="https://skillicons.dev/icons?i=java,git,github,html,css,js,vscode,idea,linux,cpp&theme=dark" />
 
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=krixhpatel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=krixhpatel&theme=dark&hide_border=false)<br/>
