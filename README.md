@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Krish</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+DSA+%7C+Problem+Solving;Building+Software+Projects;Always+Learning."/>
+</p>
+
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krixhpatel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
