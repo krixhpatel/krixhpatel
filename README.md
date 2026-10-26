@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,100:1F6FEB&section=header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Krish</h1>
 
 <p align="center">
