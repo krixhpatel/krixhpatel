@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krixhpatel&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 # 💫 About Me:
 B.Tech (C.S.E) | Aspiring Web Developer with a strong interest in building responsive. Aspiring Full-Stack Web Developer Frontend: HTML, CSS, JavaScript Focused on building real-world projects and improving skills daily.
 
