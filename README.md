@@ -38,7 +38,9 @@ B.Tech (C.S.E) | Aspiring Web Developer with a strong interest in building respo
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F6FEB,100:0D1117&section=footer"/>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
